@@ -1,3 +1,4 @@
+//1193¹ø
 #include <iostream>
 using namespace std;
 

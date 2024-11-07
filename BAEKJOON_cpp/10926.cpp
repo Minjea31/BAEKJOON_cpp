@@ -1,3 +1,4 @@
+//10926¹ø
 #include <iostream>
 #include <string>
 using namespace std;

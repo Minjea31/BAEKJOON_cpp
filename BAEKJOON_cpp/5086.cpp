@@ -1,3 +1,4 @@
+//5086¹ø
 #include <iostream>
 using namespace std;
 

@@ -1,3 +1,4 @@
+//27866¹ø
 #include <iostream>
 using namespace std;
 
